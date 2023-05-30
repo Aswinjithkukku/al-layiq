@@ -1,7 +1,6 @@
 #heroImage{
     background-image: url("./static/images/hero-image.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
     background-position: bottom;
     height: 100vh;
 }
@@ -22,7 +21,7 @@ body {
 
 .background {
     background-image: url("./static/images/background.png");
-    background-repeat: no-repeat;
-    background-size: cover;
+    /* background-repeat: no-repeat; */
+    background-size: contain;
     width: 100%;
 }
