@@ -25,3 +25,9 @@ body {
     background-size: contain;
     width: 100%;
 }
+#whoWeAreImage {
+    background-image: url("./static/images-whoweare/banner.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 45vh;
+}
